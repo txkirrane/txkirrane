@@ -15,11 +15,11 @@
  - Spring Boot / Spring Data
 
 <h3>Other areas of knowledge / Interest</h3>
- - Embedded software<br>
+ - <h6>Embedded software</h6><br>
   - PIC<br>
   - Arduino<br>
  - Unix Shell<br>
- - Infosec<br>
+ - <h6>Infosec</h6><br>
   - Metaspolit<br>
   - Nmap<br>
  - 3D Printing<br>
