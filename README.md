@@ -11,16 +11,13 @@
 
 <h3>Frameworks I use</h3>
  - React<br>
- - ExpressJS, Evergreen-UI, BlueprintJS<br>
+ - NodeJS, ExpressJS, Evergreen-UI, BlueprintJS<br>
  - Spring Boot / Spring Data
 
 <h3>Other areas of knowledge / Interest</h3>
- - <h6>Embedded software</h6><br>
-  - PIC<br>
-  - Arduino<br>
- - Unix Shell<br>
- - <h6>Infosec</h6><br>
-  - Metaspolit<br>
-  - Nmap<br>
+<h6>Embedded software</h6>
+ - PIC<br>
+ - Arduino<br>
+<h6>Other</h6>
  - 3D Printing<br>
  - Automotive Electronics<br>
