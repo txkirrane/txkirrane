@@ -1,20 +1,3 @@
 <h2>Hello, World!</h2><br>
 <h3>You have reached the Github page of Thomas Kirrane.</h3><br>
-<p>I am a software developer out of the great state of Massachusetts that primarily works in the frontend and API levels. Currently building a portfolio up and working on a few SaaS business concepts. Most repositories are private, email me for any inquiries!</p><br>
-<h3>Languages I use</h3>
- - Java<br>
- - Python<br>
- - HTML<br>
- - JavaScript<br>
- - CSS
-<h3>Frameworks I use</h3>
- - React<br>
- - NodeJS, ExpressJS, Evergreen-UI, BlueprintJS<br>
- - Spring Boot / Spring Data
-<h3>Other areas of knowledge / Interest</h3>
-<h6>Embedded software</h6>
- - PIC<br>
- - Arduino
-<h6>Other</h6>
- - 3D Printing<br>
- - Automotive Electronics
+<p>Hello World! I am a full stack software developer based out of Salt Lake City, UT. My strengths lay in building scalable platforms and websites for businesses of all shapes and sizes. I pride myself in the security and reliability of the custom software I produce. With over five years of field experience, I have gained the knowledge to produce software that will not only assist companies to grow but will surpass expectations.</p>
